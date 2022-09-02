@@ -5,11 +5,11 @@ Keypoints Labeling By CVAT
 1. https://app.cvat.ai/
 
 
-<img src="./ref/ui_01.png" width="100px" height="50px" title="login"/>    
+<img src="./ref/ui_01.png" width="300px" height="150px" title="login"/>    
 
 2. Projects
-   - Create a new project    
-    <img src="./ref/ui01_sub01.png" title="Create a new project"/>    
+   - Create a new project         
+    <img src="./ref/ui_01_sub01.png" title="Create a new project"/>    
    - 압력 : Edit Box "Name"       
    <img src="./ref/ui_02.png" title="Setup Skeleton"/>    
    - 버튼 클릭 : "Setup Skeleton"     
